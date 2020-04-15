@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TechQuiz/static/css/main.c63d9cba.chunk.css",
+    "main.css": "/TechQuiz/static/css/main.84ded312.chunk.css",
     "main.js": "/TechQuiz/static/js/main.40f35078.chunk.js",
     "main.js.map": "/TechQuiz/static/js/main.40f35078.chunk.js.map",
     "runtime-main.js": "/TechQuiz/static/js/runtime-main.227a82de.js",
@@ -8,15 +8,15 @@
     "static/js/2.a3bc8817.chunk.js": "/TechQuiz/static/js/2.a3bc8817.chunk.js",
     "static/js/2.a3bc8817.chunk.js.map": "/TechQuiz/static/js/2.a3bc8817.chunk.js.map",
     "index.html": "/TechQuiz/index.html",
-    "precache-manifest.d88cddb1c46ba7546d396dc9e09372d6.js": "/TechQuiz/precache-manifest.d88cddb1c46ba7546d396dc9e09372d6.js",
+    "precache-manifest.74ae1cc609339fc696f3fc26e62324ab.js": "/TechQuiz/precache-manifest.74ae1cc609339fc696f3fc26e62324ab.js",
     "service-worker.js": "/TechQuiz/service-worker.js",
-    "static/css/main.c63d9cba.chunk.css.map": "/TechQuiz/static/css/main.c63d9cba.chunk.css.map",
+    "static/css/main.84ded312.chunk.css.map": "/TechQuiz/static/css/main.84ded312.chunk.css.map",
     "static/js/2.a3bc8817.chunk.js.LICENSE.txt": "/TechQuiz/static/js/2.a3bc8817.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.227a82de.js",
     "static/js/2.a3bc8817.chunk.js",
-    "static/css/main.c63d9cba.chunk.css",
+    "static/css/main.84ded312.chunk.css",
     "static/js/main.40f35078.chunk.js"
   ]
 }

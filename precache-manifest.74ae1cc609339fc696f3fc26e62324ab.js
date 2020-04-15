@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06a3f909152eb861a5ee1bd1ee438630",
+    "revision": "34d1ed814867291b6ad4a9ce28c8131f",
     "url": "/TechQuiz/index.html"
   },
   {
-    "revision": "1ddf54d170bfa9d5a3f2",
-    "url": "/TechQuiz/static/css/main.c63d9cba.chunk.css"
+    "revision": "bd3e521893b5cae24ba3",
+    "url": "/TechQuiz/static/css/main.84ded312.chunk.css"
   },
   {
     "revision": "ae0337a4f9221cbd81f9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TechQuiz/static/js/2.a3bc8817.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ddf54d170bfa9d5a3f2",
+    "revision": "bd3e521893b5cae24ba3",
     "url": "/TechQuiz/static/js/main.40f35078.chunk.js"
   },
   {
