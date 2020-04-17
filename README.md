@@ -1,4 +1,4 @@
-## Todo App using React JS
+## TechQuiz App using React JS
 
 ### Commands used to publish react files in github:
 ```
