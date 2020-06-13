@@ -95,7 +95,7 @@ const qBank = [
   },
   {
     question: " Which of them is not the looping structures in JavaScript?",
-    answers: ["for", "while", "fotwhich", " dowhile"],
+    answers: ["for", "while", "forwhich", " dowhile"],
     correct: "while",
     questionId: "3893585",
   },
@@ -107,7 +107,7 @@ const qBank = [
   },
   {
     question:
-      "mong the following, which one is a ternary operator in JavaScript?",
+      "Among the following, which one is a ternary operator in JavaScript?",
     answers: ["#", ": :", "& :", "? :"],
     correct: "? :",
     questionId: "4049121",
